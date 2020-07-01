@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankEncapsulationConsole", "BankEncapsulationConsole\BankEncapsulationConsole.csproj", "{00E96389-9B33-4171-AFB6-E9B641019DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00E96389-9B33-4171-AFB6-E9B641019DCB}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{00E96389-9B33-4171-AFB6-E9B641019DCB}.Debug|anycpu.Build.0 = Debug|anycpu
+		{00E96389-9B33-4171-AFB6-E9B641019DCB}.Release|anycpu.ActiveCfg = Release|anycpu
+		{00E96389-9B33-4171-AFB6-E9B641019DCB}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
