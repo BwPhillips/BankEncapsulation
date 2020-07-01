@@ -3,9 +3,10 @@ namespace BankEncapsulationConsole
 {
     public class BankAccount
     {
-
+        //Field = class local variable
         private double balance = 0;
 
+        //Example of a Property
         public double Balance
         {
             get
